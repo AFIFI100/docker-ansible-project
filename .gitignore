@@ -1,1 +1,4 @@
-root
+.env
+config/secrets.yml
+db_password
+
